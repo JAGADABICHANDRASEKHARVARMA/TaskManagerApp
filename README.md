@@ -45,20 +45,21 @@ This is a simple Task Manager application with a Flask backend for managing task
       ```bash
    python gui.py
 
-### Usage
+## Usage
 
 Run the Flask backend using python app.py.
 Launch the Tkinter GUI using python gui.py.
 Use the buttons in the GUI to interact with the Task Manager application.
 
-### Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-## Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name.
-Commit your changes: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature-name.
-Open a pull request.
+### Fork the repository.
+
+    Create a new branch for your feature: git checkout -b feature-name.
+    Commit your changes: git commit -m 'Add new feature'.
+    Push to the branch: git push origin feature-name.
+    Open a pull request.
 
    
 
